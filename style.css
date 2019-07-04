@@ -1,0 +1,64 @@
+body {
+  font-style: arial;
+}
+section {
+  display: block;
+}
+
+#main {
+  background-color: #;
+  text-align: center;
+  margin: 30px;
+  padding: 20px;
+}
+
+#title {
+  margin-bottom: 20px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.subtitle {
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16pt;
+}
+
+#img-div {
+  background-color: white;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#img-caption {
+  margin-top: 30px;
+  padding-bottom: 30px;
+}
+
+#judul {
+  font-size: 24px;
+  margin: 60px;
+  text-Align: center;
+}
+
+ul {
+  text-align: left;
+  padding-left: 350px;
+  padding-right: 350px;
+  margin-bottom: 40px;
+}
+li {
+  padding-bottom: 15px;
+}
+p {
+  text-align: left;
+  padding-left: 330px;
+  padding-right: 350px;
+  margin-bottom: 40px;
+  font-style: italic;
+}
